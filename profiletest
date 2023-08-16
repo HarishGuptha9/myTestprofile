@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Harish Palakurthi - Personal Page</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+  }
+  header {
+    background-color: #8d6e63;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+  }
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2em;
+  }
+  .intro {
+    font-size: 1.2em;
+    color: #333;
+  }
+</style>
+</head>
+<body>
+  <header>
+    <h1>Harish Palakurthi</h1>
+    <p>Marketing & Sales Professional</p>
+  </header>
+  <div class="container">
+    <div class="intro">
+      <p>Dynamic and results-oriented marketing, business development, acquisition, and sales professional with over 4+ years of experience. Impressive track record of driving revenue growth, expanding market share, and building strong relationships with customers and partners.</p>
+      <p>Expertise lies in developing and executing effective sales strategies that increase brand awareness and generate leads. Adept at identifying new business opportunities, negotiating contracts, and closing deals. With a keen eye for market trends and consumer behavior, has helped organizations across multiple industries achieve their sales goals and increase their market share.</p>
+    </div>
+  </div>
+</body>
+</html>
